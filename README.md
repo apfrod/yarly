@@ -1,4 +1,6 @@
-yarly
-=====
+YARLY! - >13k js/html game
+=========================
 
-Yarly! - js13kgames entry yahtzee-like dice game
+YARLY! is an implementation of Yahtzee (a poker dice game) for the http://js13kgames.com/ coding competition.
+
+Supports webkit browsers. Animations and graphics are all CSS. No canvas.
